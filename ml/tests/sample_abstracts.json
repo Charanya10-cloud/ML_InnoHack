@@ -1,0 +1,30 @@
+[
+  {
+    "doc_id": "test_001",
+    "source": "PubMed",
+    "title": "Metformin activates AMPK and may modulate PCOS pathophysiology",
+    "abstract": "Metformin, a first-line treatment for type 2 diabetes, has been shown to activate AMPK signaling. Recent studies suggest AMPK activation may play a role in regulating ovarian follicle development, implicating this pathway in polycystic ovary syndrome (PCOS) pathophysiology.",
+    "published_date": "2025-11-02"
+  },
+  {
+    "doc_id": "test_002",
+    "source": "bioRxiv",
+    "title": "Rapamycin inhibits mTOR and extends lifespan in model organisms",
+    "abstract": "Rapamycin is a well-characterized inhibitor of the mTOR pathway. mTOR signaling has been implicated in multiple age-related diseases, including neurodegenerative conditions such as Alzheimer's disease, where dysregulated mTOR activity affects autophagy and protein clearance.",
+    "published_date": "2026-01-15"
+  },
+  {
+    "doc_id": "test_003",
+    "source": "medRxiv",
+    "title": "Statins and their effect on inflammatory pathways",
+    "abstract": "Statins, primarily prescribed for hyperlipidemia, are known to inhibit HMG-CoA reductase. Emerging evidence suggests statins also reduce systemic inflammation via effects on NF-kB signaling, a pathway implicated in rheumatoid arthritis progression.",
+    "published_date": "2026-02-20"
+  },
+  {
+    "doc_id": "test_004",
+    "source": "PubMed",
+    "title": "Case report: unrelated topic",
+    "abstract": "This paper discusses general trends in hospital administration efficiency across three regional healthcare networks.",
+    "published_date": "2025-08-10"
+  }
+]
